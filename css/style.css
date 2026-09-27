@@ -95,7 +95,12 @@ section p {
     color: #c8ced8;
 }
 
-
+.tech {
+    font-size: 0.9rem;
+    font-style: italic;
+    color: #666;
+    margin-top: -10px;
+}
 
 
 
